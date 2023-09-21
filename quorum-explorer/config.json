@@ -1,0 +1,36 @@
+{
+  "algorithm": "ibft2",
+  "nodes": [
+    {
+      "name": "rpcnode",
+      "client": "besu",
+      "rpcUrl": "http://rpcnode:7545",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "validator1",
+      "client": "besu",
+      "rpcUrl": "http://validator1:7545",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "validator2",
+      "client": "besu",
+      "rpcUrl": "http://validator2:7545",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "validator3",
+      "client": "besu",
+      "rpcUrl": "http://validator3:7545",
+      "privateTxUrl": ""
+    },
+    {
+      "name": "validator4",
+      "client": "besu",
+      "rpcUrl": "http://validator4:7545",
+      "privateTxUrl": ""
+    }
+  ]
+}
+ 
