@@ -11,7 +11,7 @@ npx docusaurus serve -p 3001
 ```
 
 3. Open Remix IDE
- - Compile SamhungToken.sol
+ - Compile SHToken.sol
  - Deploy (Metamask password:12345678)
  - Transfer tokens
 
